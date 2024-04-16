@@ -1,0 +1,73 @@
+ body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+       .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            padding: 10px 0;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .winner {
+            color: #007bff; /* Blue color */
+            font-weight: bold;
+        }
+
+/* Estilo para o cabeçalho */
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilo para o título principal */
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Estilo para a lista de ganhadores */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Estilo para os itens da lista */
+li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #666;
+}
+
+/* Estilo para os links */
+a {
+  text-decoration: none;
+  color: #0074d9;
+}
+
+/* Estilo para os links quando hover */
+a:hover {
+  text-decoration: underline;
+}
+
